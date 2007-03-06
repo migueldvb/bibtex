@@ -1,0 +1,2516 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<library>
+<taglist>
+  <tag>
+    <uid>0</uid>
+    <name>Astrophysics</name>
+  </tag>
+</taglist>
+<doclist>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Godunov1959</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Godunov, S. K.</bib_authors>
+    <bib_journal>Mat. Sb.</bib_journal>
+    <bib_volume>47</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>271-306</bib_pages>
+    <bib_year>1959</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Strang:1968:CCD</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the Construction and Comparison of Difference Schemes</bib_title>
+    <bib_authors>Strang, G.</bib_authors>
+    <bib_journal>SIAM Journal on Numerical Analysis</bib_journal>
+    <bib_volume>5</bib_volume>
+    <bib_number>3</bib_number>
+    <bib_pages>506-517</bib_pages>
+    <bib_year>1968</bib_year>
+    <bib_extra key="Issn">0036-1429 (print), 1095-7170 (electronic)</bib_extra>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Toro:1999:RSN</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Riemann solvers and numerical methods for fluid dynamics: a practical introduction</bib_title>
+    <bib_authors>Toro, E. F.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Isbn">3540659668</bib_extra>
+    <bib_extra key="Publisher">Springer-Verlag</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1977JCP...23..276</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>van Leer, B.</bib_authors>
+    <bib_journal>J. Comput. Phys.</bib_journal>
+    <bib_volume>23</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>276</bib_pages>
+    <bib_year>1977</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1981JCP...43....357</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Roe, P. L.</bib_authors>
+    <bib_journal>J. Comp. Phys</bib_journal>
+    <bib_volume>43</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>357</bib_pages>
+    <bib_year>1981</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>monaghan:1983</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Shock Simulations by the Particle Method SPH</bib_title>
+    <bib_authors>Monaghan, J. J. and Gingold, R. A.</bib_authors>
+    <bib_journal>\jcp</bib_journal>
+    <bib_volume>52</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>374</bib_pages>
+    <bib_year>1983</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1984JCP...54..115</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Woodward, P. and Colella, P.</bib_authors>
+    <bib_journal>J. Comput. Phys.</bib_journal>
+    <bib_volume>54</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>115</bib_pages>
+    <bib_year>1984</bib_year>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1984JCP...54..174</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Piecewise Parabolic Method (PPM) for gas-dynamical simulations</bib_title>
+    <bib_authors>Colella, P. and Woodward, P.</bib_authors>
+    <bib_journal>J. Comput. Phys.</bib_journal>
+    <bib_volume>54</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>174-201</bib_pages>
+    <bib_year>1984</bib_year>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>monaghan:1989</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the Problem of Penetration in Particle Methods</bib_title>
+    <bib_authors>Monaghan, J. J.</bib_authors>
+    <bib_journal>\jcp</bib_journal>
+    <bib_volume>82</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1</bib_pages>
+    <bib_year>1989</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995JCP..120..278</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>An adaptive Cartesian grid method for unsteady compressible flow in  irregular regions</bib_title>
+    <bib_authors>Pember, R. B. and Bell, J. B. and Colella, W. Y. and Crutchfie ld, W. Y. and Welcome, M. L.</bib_authors>
+    <bib_journal>J. Comput. Phys.</bib_journal>
+    <bib_volume>120</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>278-304</bib_pages>
+    <bib_year>1995</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995JCP..121..357</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Balsara, D. S.</bib_authors>
+    <bib_journal>J. Comput. Phys.</bib_journal>
+    <bib_volume>121</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>357</bib_pages>
+    <bib_year>1995</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995CoPhC..89..127</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Hawley, J. and Stone, J.</bib_authors>
+    <bib_journal>Comp. Phys. Comm.</bib_journal>
+    <bib_volume>89</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>127</bib_pages>
+    <bib_year>1995</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1989JCoPh.82..64</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Berger, M. J. and Colella, P.</bib_authors>
+    <bib_journal>J. Comput. Phys.</bib_journal>
+    <bib_volume>54</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>174</bib_pages>
+    <bib_year>1989</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1989Preprint449</key>
+    <tagged>0</tagged>
+    <bib_type>Unpublished</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Max-Planck-Institut für Astrophysik, Preprint 449, Garching</bib_title>
+    <bib_authors>Fryxell, B. A. and Müller, E. and Arnett, W. D.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1989</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1997CPC..101..54</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Ziegler, U. and Yorke, H. W.</bib_authors>
+    <bib_journal>Comp. Phys. Comm.</bib_journal>
+    <bib_volume>101</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>54-74</bib_pages>
+    <bib_year>1997</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1997JCoPh.136...41</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title></bib_title>
+    <bib_authors>Morris, J. and Monaghan, J.</bib_authors>
+    <bib_journal>J. Comp. Phys</bib_journal>
+    <bib_volume>136</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>41</bib_pages>
+    <bib_year>1997</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001CPC..138..101</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>AMRA: An Adaptive Mesh Refinement hydrodynamic code for astrophysics</bib_title>
+    <bib_authors>Plewa, T. and Müller, E.</bib_authors>
+    <bib_journal>Comp. Phys. Comm.</bib_journal>
+    <bib_volume>138</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>101-127</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>LaneyCompGasdynam</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Computational Gasdynamics</bib_title>
+    <bib_authors>Laney, C. B.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Publisher">Cambridge University Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>LevequeFiniteVolume</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Finite Volume Methods for Hyperbolic Problems</bib_title>
+    <bib_authors>LeVeque, R. L.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Publisher">Cambridge University Press</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1959flme.book.....L</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Fluid mechanics</bib_title>
+    <bib_authors>Landau, L. D. and Lifshitz, E. M.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1959</bib_year>
+    <bib_extra key="Publisher">Course of theoretical physics, Oxford: Pergamon Press, 1959</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1973A&amp;A....24..337S</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Black holes in binary systems. Observational appearance.</bib_title>
+    <bib_authors>Shakura, N. I. and Sunyaev, R. A.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>24</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>337-355</bib_pages>
+    <bib_year>1973</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1978ApJ...221...51L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Negative mass instability of flat galaxies</bib_title>
+    <bib_authors>Lovelace, R. V. E. and Hohlfeld, R. G.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>221</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>51-61</bib_pages>
+    <bib_year>1978</bib_year>
+    <bib_extra key="Doi">10.1086/156004</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1982MNRAS.199..883B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Hydromagnetic flows from accretion discs and the production of radio jets</bib_title>
+    <bib_authors>Blandford, R. D. and Payne, D. G.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>199</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>883-903</bib_pages>
+    <bib_year>1982</bib_year>
+    <bib_extra key="Month">jun</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1988Natur.331..693M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Numerical simulation of Jupiter’s Great Red SPOT</bib_title>
+    <bib_authors>Marcus, P. S.</bib_authors>
+    <bib_journal>\nat</bib_journal>
+    <bib_volume>331</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>693-696</bib_pages>
+    <bib_year>1988</bib_year>
+    <bib_extra key="Doi">10.1038/331693a0</bib_extra>
+    <bib_extra key="Month">feb</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1989ASAJ...85.1014K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Observations and modeling of the backscattering of short tone bursts from a spherical shell: Lamb wave echoes, glory, and axial reverberations </bib_title>
+    <bib_authors>Kargl, S. G. and Marston, P. L.</bib_authors>
+    <bib_journal>Acoustical Society of America Journal</bib_journal>
+    <bib_volume>85</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1014-1028</bib_pages>
+    <bib_year>1989</bib_year>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1992phas.book.....S</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Physics of Astrophysics, Vol. II</bib_title>
+    <bib_authors>Shu, F. H.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1992</bib_year>
+    <bib_extra key="Publisher">Physics of Astrophysics, Vol. II, by Frank H. Shu. Published by University Science Books, ISBN 0-935702-65-2, 476pp, 1992.</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1996MNRAS.282.1107G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Non-reflective boundary conditions and the viscous instability in accretion discs</bib_title>
+    <bib_authors>Godon, P.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>282</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1107-1113</bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1996ApJ...467...76B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Nonlinear Stability, Hydrodynamical Turbulence, and Transport in Disks</bib_title>
+    <bib_authors>Balbus, S. A. and Hawley, J. F. and Stone, J. M.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>467</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>76</bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Doi">10.1086/177585</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1996ApJS..105..181K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A Method for Calculations of Nonlinear Shear Flow: Application to Formation of Giant Planets in the Solar Nebula</bib_title>
+    <bib_authors>Korycansky, D. G. and Papaloizou, J. C. B.</bib_authors>
+    <bib_journal>\apjs</bib_journal>
+    <bib_volume>105</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>181</bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Doi">10.1086/192311</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1996ApJ...464L.147M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A Planetary Companion to 70 Virginis</bib_title>
+    <bib_authors>Marcy, G. W. and Butler, R. P.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>464</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-147</bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Doi">10.1086/310096</bib_extra>
+    <bib_extra key="Month">jun</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998RvMP...70....1B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Instability, turbulence, and enhanced transport in accretion disks</bib_title>
+    <bib_authors>Balbus, S. A. and Hawley, J. F.</bib_authors>
+    <bib_journal>Reviews of Modern Physics</bib_journal>
+    <bib_volume>70</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1-53</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998ApJ...503..923B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Evolution of the Solar Nebula. IV. Giant Gaseous Protoplanet Formation</bib_title>
+    <bib_authors>Boss, A. P.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>503</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>923</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Doi">10.1086/306036</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999PhFl...11.2280B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Particle aggregation in a turbulent Keplerian flow</bib_title>
+    <bib_authors>Bracco, A. and Chavanis, P. H. and Provenzale, A. and Spiegel, E. A.</bib_authors>
+    <bib_journal>Physics of Fluids</bib_journal>
+    <bib_volume>11</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>2280-2287</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1063/1.870090</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999A&amp;A...347..734R</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Turbulence in differentially rotating flows. What can be learned from the Couette-Taylor experiment</bib_title>
+    <bib_authors>Richard, D. and Zahn, J. P.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>347</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>734-738</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999ApJ...513..805L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Rossby Wave Instability of Keplerian Accretion Disks</bib_title>
+    <bib_authors>Lovelace, R. V. E. and Li, H. and Colgate, S. A. and Nelson, A. F.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>513</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>805-810</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1086/306900</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999ApJ...514..344B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Tidally Induced Gap Formation in Protostellar Disks: Gap Clearing and Suppression of Protoplanetary Growth</bib_title>
+    <bib_authors>Bryden, G. and Chen, X. and Lin, D. N. C. and Nelson, R. P. and Papaloizou, J. C. B.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>514</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>344-367</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1086/306917</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ApJ...598L...7C</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Cosmological Mestel Disks and the Rossby Vortex Instability: The Origin of Supermassive Black Holes</bib_title>
+    <bib_authors>Colgate, S. A. and Cen, R. and Li, H. and Currier, N. and Warren, M. S.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>598</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-7</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1086/380426</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ApJ...596L..91K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Vortices in the Co-orbital Region of an Embedded Protoplanet</bib_title>
+    <bib_authors>Koller, J. and Li, H. and Lin, D. N. C.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>596</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-91</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1086/379032</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005A&amp;A...429....1D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>An hydrodynamic shear instability in stratified disks</bib_title>
+    <bib_authors>Dubrulle, B. and Marié, L. and Normand, C. and Richard, D. and Hersant, F. and Zahn, J. P.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>429</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1-13</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:200400065</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005A&amp;A...444...25L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the relevance of subcritical hydrodynamic turbulence to accretion disk transport</bib_title>
+    <bib_authors>Lesur, G. and Longaretti, P. Y.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>444</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>25-44</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20053683</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005ApJ...624.1003L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Potential Vorticity Evolution of a Protoplanetary Disk with an Embedded Protoplanet</bib_title>
+    <bib_authors>Li, H. and Li, S. and Koller, J. and Wendroff, B. B. and Liska, R. and Orban, C. M. and Liang, E. P. T. and Lin, D. N. C.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>624</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1003-1009</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1086/429367</bib_extra>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005ApJ...623.1157B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Three-dimensional Vortices in Stratified Protoplanetary Disks</bib_title>
+    <bib_authors>Barranco, J. A. and Marcus, P. S.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>623</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1157-1170</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1086/428639</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005PThPS.158...24M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Observed Properties of Exoplanets: Masses, Orbits, and Metallicities</bib_title>
+    <bib_authors>Marcy, G. and Butler, R. P. and Fischer, D. and Vogt, S. and Wright, J. T. and Tinney, C. G. and Jones, H. R. A.</bib_authors>
+    <bib_journal>Progress of Theoretical Physics Supplement</bib_journal>
+    <bib_volume>158</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>24-42</bib_pages>
+    <bib_year>2005</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1997Icar..126..261W</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Protoplanet Migration by Nebula Tides</bib_title>
+    <bib_authors>Ward, W. R.</bib_authors>
+    <bib_journal>Icarus</bib_journal>
+    <bib_volume>126</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>261-281</bib_pages>
+    <bib_year>1997</bib_year>
+    <bib_extra key="Doi">10.1006/icar.1996.5647</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998ARA&amp;A..36...57M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Detection of Extrasolar Giant Planets</bib_title>
+    <bib_authors>Marcy, G. W. and Butler, R. P.</bib_authors>
+    <bib_journal>\araa</bib_journal>
+    <bib_volume>36</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>57-98</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Doi">10.1146/annurev.astro.36.1.57</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1984frh..book.....M</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Foundations of radiation hydrodynamics</bib_title>
+    <bib_authors>Mihalas, D. and Weibel Mihalas, B.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1984</bib_year>
+    <bib_extra key="Publisher">New York: Oxford University Press, 1984</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1986MNRAS.221..339G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The stability of accretion tori. I - Long-wavelength modes of slender tori</bib_title>
+    <bib_authors>Goldreich, P. and Goodman, J. and Narayan, R.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>221</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>339-364</bib_pages>
+    <bib_year>1986</bib_year>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1987MNRAS.225..695G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The stability of accretion tori. II - Non-linear evolution to discrete planets</bib_title>
+    <bib_authors>Goodman, J. and Narayan, R. and Goldreich, P.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>225</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>695-711</bib_pages>
+    <bib_year>1987</bib_year>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1986ApJ...307..395L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the tidal interaction between protoplanets and the primordial solar nebula. II - Self-consistent nonlinear interaction</bib_title>
+    <bib_authors>Lin, D. N. C. and Papaloizou, J.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>307</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>395-409</bib_pages>
+    <bib_year>1986</bib_year>
+    <bib_extra key="Doi">10.1086/164426</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1986ApJ...309..846L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the tidal interaction between protoplanets and the protoplanetary disk. III - Orbital migration of protoplanets</bib_title>
+    <bib_authors>Lin, D. N. C. and Papaloizou, J.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>309</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>846-857</bib_pages>
+    <bib_year>1986</bib_year>
+    <bib_extra key="Doi">10.1086/164653</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1980ApJ...241..425G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Disk-satellite interactions</bib_title>
+    <bib_authors>Goldreich, P. and Tremaine, S.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>241</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>425-441</bib_pages>
+    <bib_year>1980</bib_year>
+    <bib_extra key="Doi">10.1086/158356</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1993ApJS...88..589B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The piecewise-parabolic method in curvilinear coordinates</bib_title>
+    <bib_authors>Blondin, J. M. and Lufkin, E. A.</bib_authors>
+    <bib_journal>\apjs</bib_journal>
+    <bib_volume>88</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>589-594</bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Doi">10.1086/191834</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999ApJ...514..325K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the Azimuthal Structure of Thermal Convection in Circumstellar Disks</bib_title>
+    <bib_authors>Klahr, H. H. and Henning, T. and Kley, W.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>514</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>325-343</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1086/306926</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000AN....321..171C</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>High-resolution simulations and visualization of protoplanetary disks: structure of the flow in the vicinity of a massive planet</bib_title>
+    <bib_authors>Ciecielag, P. and Plewa, T. and Ró\. zyczka, M.</bib_authors>
+    <bib_journal>Astronomische Nachrichten</bib_journal>
+    <bib_volume>321</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>171-174</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Doi">10.1002/1521-3994(200008)321:3</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000prpl.conf.1111L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Orbital Evolution and Planet-Star Tidal Interaction</bib_title>
+    <bib_authors>Lin, D. N. C. and Papaloizou, J. C. B. and Terquem, C. and Bryden, G. and Ida, S.</bib_authors>
+    <bib_journal>Protostars and Planets IV</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1111</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000prpl.conf.1135W</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Disk-Planet Interactions and the Formation of Planetary Systems</bib_title>
+    <bib_authors>Ward, W. R. and Hahn, J. M.</bib_authors>
+    <bib_journal>Protostars and Planets IV</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1135</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000MNRAS.318...18N</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The migration and growth of protoplanets in protostellar discs</bib_title>
+    <bib_authors>Nelson, R. P. and Papaloizou, J. C. B. and Masset, F. and Kley, W.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>318</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>18-36</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2002ApJS..143..201C</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On Validating an Astrophysical Simulation Code</bib_title>
+    <bib_authors>Calder, A. C. and Fryxell, B. and Plewa, T. and Rosner, R. and Dursi, L. J. and Weirs, V. G. and Dupont, T. and Robey, H. F. and Kane, J. O. and Remington, B. A. and Drake, R. P. and Dimonte, G. and Zingale, M. and Timmes, F. X. and Olson, K. and Ricker, P. and MacNeice, P. and Tufo, H. M.</bib_authors>
+    <bib_journal>\apjs</bib_journal>
+    <bib_volume>143</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>201-229</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Doi">10.1086/342267</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001MNRAS.326..833B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Non-linear dynamics of the corotation torque</bib_title>
+    <bib_authors>Balmforth, N. J. and Korycansky, D. G.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>326</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>833-851</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Doi">10.1046/j.1365-8711.2001.04619.x</bib_extra>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001PhDT.........9R</key>
+    <tagged>0</tagged>
+    <bib_type>PhdThesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Instabilités Hydrodynamiques dans les Ecoulements en Rotation Différentielle</bib_title>
+    <bib_authors>Richard, D.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Month">December</bib_extra>
+    <bib_extra key="School">AA(Observatoire de Paris GIT/SPEC CEA Saclay)</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001ASPC..247..533P</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Photoionization Model Nebulae</bib_title>
+    <bib_authors>Péquignot, D. and Ferland, G. and Netzer, H. and Kallman, T. and Ballantyne, D. R. and Dumont, A. M. and Ercolano, B. and Harrington, P. and Kraemer, S. and Morisset, C. and Nayakshin, S. and Rubin, R. H. and Sutherland, R.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>533</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="BookTitle">ASP Conf. Ser. 247: Spectroscopic Challenges of Photoionized Plasmas</bib_extra>
+    <bib_extra key="Editor">Ferland, G. and Savin, D. W.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001ApJ...547..457K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Three-dimensional Simulations of a Planet Embedded in a Protoplanetary Disk</bib_title>
+    <bib_authors>Kley, W. and D’Angelo, G. and Henning, T.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>547</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>457-464</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Doi">10.1086/318345</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ARA&amp;A..41..555B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Enhanced Angular Momentum Transport in Accretion Disks</bib_title>
+    <bib_authors>Balbus, S. A.</bib_authors>
+    <bib_journal>\araa</bib_journal>
+    <bib_volume>41</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>555-597</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1146/annurev.astro.41.081401.155207</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ApJ...582..869K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Turbulence in Accretion Disks: Vorticity Generation and Angular Momentum Transport via the Global Baroclinic Instability</bib_title>
+    <bib_authors>Klahr, H. H. and Bodenheimer, P.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>582</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>869-892</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1086/344743</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003A&amp;A...407..369U</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Statistical properties of exoplanets. I. The period distribution: Constraints for the migration scenario</bib_title>
+    <bib_authors>Udry, S. and Mayor, M. and Santos, N. C.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>407</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>369-376</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20030843</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ApJ...586..540D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Orbital Migration and Mass Accretion of Protoplanets in Three-dimensional Global Computations with Nested Grids</bib_title>
+    <bib_authors>D’Angelo, G. and Kley, W. and Henning, T.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>586</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>540-561</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1086/367555</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ASPC..294....1M</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Properties of Extrasolar Planets</bib_title>
+    <bib_authors>Marcy, G. W. and Butler, R. P. and Fischer, D. A. and Vogt, S. S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1-58381</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="BookTitle">ASP Conf. Ser. 294: Scientific Frontiers in Research on Extrasolar Planets</bib_extra>
+    <bib_extra key="Editor">Deming, D. and Seager, S.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004ASPC..321..333D</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Instabilities and Vorticity Generation in Protoplanetary Disks</bib_title>
+    <bib_authors>de Val Borro, M. and Artymowicz, P.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>333</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="BookTitle">ASP Conf. Ser. 321: Extrasolar Planets: Today and Tomorrow</bib_extra>
+    <bib_extra key="Editor">Beaulieu, J. and Lecavelier Des Etangs, A. and Terquem, C.</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1979MNRAS.186..799L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Tidal torques on accretion discs in binary systems with extreme mass ratios</bib_title>
+    <bib_authors>Lin, D. N. C. and Papaloizou, J.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>186</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>799-812</bib_pages>
+    <bib_year>1979</bib_year>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1979ApJ...233..857G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The excitation of density waves at the Lindblad and corotation resonances by an external potential</bib_title>
+    <bib_authors>Goldreich, P. and Tremaine, S.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>233</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>857-871</bib_pages>
+    <bib_year>1979</bib_year>
+    <bib_extra key="Doi">10.1086/157448</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1984ApJ...285..818P</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the tidal interaction between protoplanets and the primordial solar nebula. I - Linear calculation of the role of angular momentum exchange</bib_title>
+    <bib_authors>Papaloizou, J. and Lin, D. N. C.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>285</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>818-834</bib_pages>
+    <bib_year>1984</bib_year>
+    <bib_extra key="Doi">10.1086/162561</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1985prpl.conf..981L</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the dynamical origin of the solar system</bib_title>
+    <bib_authors>Lin, D. N. C. and Papaloizou, J.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>981-1072</bib_pages>
+    <bib_year>1985</bib_year>
+    <bib_extra key="BookTitle">Protostars and Planets II</bib_extra>
+    <bib_extra key="Editor">Black, D. C. and Matthews, M. S.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1985MNRAS.213..799P</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The dynamical stability of differentially rotating discs. II</bib_title>
+    <bib_authors>Papaloizou, J. C. B. and Pringle, J. E.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>213</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>799-820</bib_pages>
+    <bib_year>1985</bib_year>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1989A&amp;A...208...98K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Radiation hydrodynamics of the boundary layer in accretion disks. I - Numerical methods</bib_title>
+    <bib_authors>Kley, W.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>208</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>98-110</bib_pages>
+    <bib_year>1989</bib_year>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1994ApJ...431..754F</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Smoothed Particle Hydrodynamics: Physical viscosity and the simulation of accretion disks</bib_title>
+    <bib_authors>Flebbe, O. and Muenzel, S. and Herold, H. and Riffert, H. and Ruder, H.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>431</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>754-760</bib_pages>
+    <bib_year>1994</bib_year>
+    <bib_extra key="Doi">10.1086/174526</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995A&amp;A...295L...1B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Did planet formation begin inside persistent gaseous vortices?</bib_title>
+    <bib_authors>Barge, P. and Sommeria, J.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>295</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-1</bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995MNRAS.277..362B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Modelling accretion in protobinary systems</bib_title>
+    <bib_authors>Bate, M. R. and Bonnell, I. A. and Price, N. M.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>277</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>362-376</bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1996ApJ...457..355G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Layered Accretion in T Tauri Disks</bib_title>
+    <bib_authors>Gammie, C. F.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>457</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>355</bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Doi">10.1086/176735</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1996Icar..124...62P</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Formation of the Giant Planets by Concurrent Accretion of Solids and Gas</bib_title>
+    <bib_authors>Pollack, J. B. and Hubickyj, O. and Bodenheimer, P. and Lissauer, J. J. and Podolak, M. and Greenzweig, Y.</bib_authors>
+    <bib_journal>Icarus</bib_journal>
+    <bib_volume>124</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>62-85</bib_pages>
+    <bib_year>1996</bib_year>
+    <bib_extra key="Doi">10.1006/icar.1996.0190</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001A&amp;A...380..750T</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On Rossby waves and vortices with differential rotation</bib_title>
+    <bib_authors>Tagger, M.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>380</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>750-757</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20011423</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001ApJ...563..367B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Gas Giant Protoplanet Formation: Disk Instability Models with Thermodynamics and Radiative Transfer</bib_title>
+    <bib_authors>Boss, A. P.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>563</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>367-373</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Doi">10.1086/323694</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2002A&amp;A...394..241T</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Orbital migration and the frequency of giant planet formation</bib_title>
+    <bib_authors>Trilling, D. E. and Lunine, J. I. and Benz, W.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>394</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>241-251</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20021108</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2002ApJ...580..506T</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Gas Accretion Flows onto Giant Protoplanets: High-Resolution Two-dimensional Simulations</bib_title>
+    <bib_authors>Tanigawa, T. and Watanabe, S. -i.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>580</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>506-518</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Doi">10.1086/343069</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995Natur.378..355M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A Jupiter-Mass Companion to a Solar-Type Star</bib_title>
+    <bib_authors>Mayor, M. and Queloz, D.</bib_authors>
+    <bib_journal>\nat</bib_journal>
+    <bib_volume>378</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>355</bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="Doi">10.1038/378355a0</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999AAS...195.4203O</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>PARAMESH: A Parallel, Adaptive Mesh Refinement Toolkit and Performance of the ASCI/FLASH code</bib_title>
+    <bib_authors>Olson, K. M. and MacNeice, P. and Fryxell, B. and Ricker, P. and Timmes, F. X. and Zingale, M.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1430</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="BookTitle">Bulletin of the American Astronomical Society</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000ApJS..131..273F</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>FLASH: An Adaptive Mesh Hydrodynamics Code for Modeling Astrophysical Thermonuclear Flashes</bib_title>
+    <bib_authors>Fryxell, B. and Olson, K. and Ricker, P. and Timmes, F. X. and Zingale, M. and Lamb, D. Q. and MacNeice, P. and Rosner, R. and Truran, J. W. and Tufo, H.</bib_authors>
+    <bib_journal>\apjs</bib_journal>
+    <bib_volume>131</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>273-334</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Doi">10.1086/317361</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1986Icar...67..391B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Calculations of the accretion and evolution of giant planets The effects of solid cores</bib_title>
+    <bib_authors>Bodenheimer, P. and Pollack, J. B.</bib_authors>
+    <bib_journal>Icarus</bib_journal>
+    <bib_volume>67</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>391-408</bib_pages>
+    <bib_year>1986</bib_year>
+    <bib_extra key="Doi">10.1016/0019-1035(86)90122-3</bib_extra>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1993ApJ...419..166A</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Disk-Satellite Interaction via Density Waves and the Eccentricity Evolution of Bodies Embedded in Disks</bib_title>
+    <bib_authors>Artymowicz, P.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>419</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>166</bib_pages>
+    <bib_year>1993</bib_year>
+    <bib_extra key="Doi">10.1086/173470</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1992PASP..104..769A</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Dynamics of binary and planetary-system interaction with disks - Eccentricity changes</bib_title>
+    <bib_authors>Artymowicz, P.</bib_authors>
+    <bib_journal>\pasp</bib_journal>
+    <bib_volume>104</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>769-774</bib_pages>
+    <bib_year>1992</bib_year>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1991ApJ...376..214B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A powerful local shear instability in weakly magnetized disks. I - Linear analysis. II - Nonlinear evolution</bib_title>
+    <bib_authors>Balbus, S. A. and Hawley, J. F.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>376</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>214-233</bib_pages>
+    <bib_year>1991</bib_year>
+    <bib_extra key="Doi">10.1086/170270</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1991ApJ...370L..35A</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The effect of an external disk on the orbital elements of a central binary</bib_title>
+    <bib_authors>Artymowicz, P. and Clarke, C. J. and Lubow, S. H. and Pringle, J. E.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>370</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-35</bib_pages>
+    <bib_year>1991</bib_year>
+    <bib_extra key="Doi">10.1086/185971</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999ApJ...526.1001L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Disk Accretion onto High-Mass Planets</bib_title>
+    <bib_authors>Lubow, S. H. and Seibert, M. and Artymowicz, P.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>526</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1001-1012</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1086/308045</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ApJ...589..556N</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the Early Evolution of Forming Jovian Planets. I. Initial Conditions, Systematics, and Qualitative Comparisons to Theory</bib_title>
+    <bib_authors>Nelson, A. F. and Benz, W.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>589</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>556-577</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1086/374545</bib_extra>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2001ApJ...551..874L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Rossby Wave Instability of Thin Accretion Disks. III. Nonlinear Simulations</bib_title>
+    <bib_authors>Li, H. and Colgate, S. A. and Wendroff, B. and Liska, R.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>551</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>874-896</bib_pages>
+    <bib_year>2001</bib_year>
+    <bib_extra key="Doi">10.1086/320241</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000ApJ...533.1023L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Rossby Wave Instability of Thin Accretion Disks. II. Detailed Linear Theory</bib_title>
+    <bib_authors>Li, H. and Finn, J. M. and Lovelace, R. V. E. and Colgate, S. A.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>533</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1023-1034</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Doi">10.1086/308693</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998AJ....116.1998L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Modeling the Diversity of Outer Planetary Systems</bib_title>
+    <bib_authors>Levison, H. F. and Lissauer, J. J. and Duncan, M. J.</bib_authors>
+    <bib_journal>\aj</bib_journal>
+    <bib_volume>116</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1998-2014</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Doi">10.1086/300557</bib_extra>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998ApJ...504..945L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Dynamics of Heavy Gaseous Disks</bib_title>
+    <bib_authors>Laughlin, G. and Korchagin, V. and Adams, F. C.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>504</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>945</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Doi">10.1086/306117</bib_extra>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999MNRAS.303..696K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Mass flow and accretion through gaps in accretion discs</bib_title>
+    <bib_authors>Kley, W.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>303</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>696-710</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2002MNRAS.330..950O</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the wake generated by a planet in a disc</bib_title>
+    <bib_authors>Ogilvie, G. I. and Lubow, S. H.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>330</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>950-954</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Doi">10.1046/j.1365-8711.2002.05148.x</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004MNRAS.351..630L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Testing the locality of transport in self-gravitating accretion discs</bib_title>
+    <bib_authors>Lodato, G. and Rice, W. K. M.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>351</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>630-642</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Doi">10.1111/j.1365-2966.2004.07811.x</bib_extra>
+    <bib_extra key="Month">jun</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004A&amp;A...418..325S</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Simulations of planet-disc interactions using Smoothed Particle Hydrodynamics</bib_title>
+    <bib_authors>Schäfer, C. and Speith, R. and Hipp, M. and Kley, W.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>418</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>325-335</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20034034</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003MNRAS.342..926D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Accretion and dynamical interactions in small-N star-forming clusters: N= 5</bib_title>
+    <bib_authors>Delgado-Donate, E. J. and Clarke, C. J. and Bate, M. R.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>342</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>926-938</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="Doi">10.1046/j.1365-8711.2003.06598.x</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004MNRAS.349..678E</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The effect of radiative feedback on Bondi-Hoyle flow around a massive star</bib_title>
+    <bib_authors>Edgar, R. and Clarke, C.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>349</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>678-686</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Doi">10.1111/j.1365-2966.2004.07533.x</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1977AJ.....82.1013L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A numerical approach to the testing of the fission hypothesis</bib_title>
+    <bib_authors>Lucy, L. B.</bib_authors>
+    <bib_journal>\aj</bib_journal>
+    <bib_volume>82</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1013-1024</bib_pages>
+    <bib_year>1977</bib_year>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1977MNRAS.181..375G</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Smoothed particle hydrodynamics - Theory and application to non-spherical stars</bib_title>
+    <bib_authors>Gingold, R. A. and Monaghan, J. J.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>181</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>375-389</bib_pages>
+    <bib_year>1977</bib_year>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1981ARA&amp;A..19..137P</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Accretion discs in astrophysics</bib_title>
+    <bib_authors>Pringle, J. E.</bib_authors>
+    <bib_journal>\araa</bib_journal>
+    <bib_volume>19</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>137-162</bib_pages>
+    <bib_year>1981</bib_year>
+    <bib_extra key="Doi">10.1146/annurev.aa.19.090181.001033</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1984MNRAS.208..721P</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The dynamical stability of differentially rotating discs with constant specific angular momentum</bib_title>
+    <bib_authors>Papaloizou, J. C. B. and Pringle, J. E.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>208</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>721-750</bib_pages>
+    <bib_year>1984</bib_year>
+    <bib_extra key="Month">jun</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1992nrfa.book.....P</key>
+    <tagged>0</tagged>
+    <bib_type>Book</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Numerical recipes in FORTRAN. The art of scientific computing</bib_title>
+    <bib_authors>Press, W. H. and Teukolsky, S. A. and Vetterling, W. T. and Flannery, B. P.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1992</bib_year>
+    <bib_extra key="Publisher">Cambridge: University Press, |c1992, 2nd ed.</bib_extra>
+    <bib_extra key="Series"></bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1992ApJS...80..753S</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>ZEUS-2D: A radiation magnetohydrodynamics code for astrophysical flows in two space dimensions. I - The hydrodynamic algorithms and tests.</bib_title>
+    <bib_authors>Stone, J. M. and Norman, M. L.</bib_authors>
+    <bib_journal>\apjs</bib_journal>
+    <bib_volume>80</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>753-790</bib_pages>
+    <bib_year>1992</bib_year>
+    <bib_extra key="Doi">10.1086/191680</bib_extra>
+    <bib_extra key="Month">jun</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1985A&amp;A...149..135M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A refined particle method for astrophysical problems</bib_title>
+    <bib_authors>Monaghan, J. J. and Lattanzio, J. C.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>149</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>135-143</bib_pages>
+    <bib_year>1985</bib_year>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1990ApJ...364..326L</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Wave propagation in gaseous accretion disks</bib_title>
+    <bib_authors>Lin, D. N. C. and Papaloizou, J. C. B. and Savonije, G. J.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>364</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>326-334</bib_pages>
+    <bib_year>1990</bib_year>
+    <bib_extra key="Doi">10.1086/169415</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1990nmns.work..269B</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Smooth Particle Hydrodynamics - a Review</bib_title>
+    <bib_authors>Benz, W.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>269</bib_pages>
+    <bib_year>1990</bib_year>
+    <bib_extra key="BookTitle">Numerical Modelling of Nonlinear Stellar Pulsations Problems and Prospects</bib_extra>
+    <bib_extra key="Editor">Buchler, J. R.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1992ARA&amp;A..30..543M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Smoothed particle hydrodynamics</bib_title>
+    <bib_authors>Monaghan, J. J.</bib_authors>
+    <bib_journal>\araa</bib_journal>
+    <bib_volume>30</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>543-574</bib_pages>
+    <bib_year>1992</bib_year>
+    <bib_extra key="Doi">10.1146/annurev.aa.30.090192.002551</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1994ApJ...420..197B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Higher order Godunov schemes for isothermal hydrodynamics</bib_title>
+    <bib_authors>Balsara, D. S.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>420</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>197-212</bib_pages>
+    <bib_year>1994</bib_year>
+    <bib_extra key="Doi">10.1086/173553</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995A&amp;AS..110..587E</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>General relativistic hydrodynamics with a ROE solver.</bib_title>
+    <bib_authors>Eulderink, F. and Mellema, G.</bib_authors>
+    <bib_journal>åps</bib_journal>
+    <bib_volume>110</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>587</bib_pages>
+    <bib_year>1995</bib_year>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006physics..11054V</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Unbalanced instabilities of rapidly rotating stratified shear flows</bib_title>
+    <bib_authors>Vanneste, J. and Yavneh, I.</bib_authors>
+    <bib_journal>ArXiv Physics e-prints</bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006JCoPh.219...21B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A 3D spectral anelastic hydrodynamic code for shearing, stratified flows</bib_title>
+    <bib_authors>Barranco, J. A. and Marcus, P. S.</bib_authors>
+    <bib_journal>Journal of Computational Physics</bib_journal>
+    <bib_volume>219</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>21-46</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1016/j.jcp.2006.03.015</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006A&amp;A...450.1203P</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>RODEO: a new method for planet-disk interaction</bib_title>
+    <bib_authors>Paardekooper, S. J. and Mellema, G.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>450</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1203-1220</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20053761</bib_extra>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1995JCoPh.121..357B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>von Neumann stability analysis of smooth particle hydrodynamics–suggestions for optimal algorithms</bib_title>
+    <bib_authors>Balsara, D. S.</bib_authors>
+    <bib_journal>Journal of Computational Physics</bib_journal>
+    <bib_volume>121</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>357-372</bib_pages>
+    <bib_year>1995</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998A&amp;A...338L..37K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>On the treatment of the Coriolis force in computational astrophysics</bib_title>
+    <bib_authors>Kley, W.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>338</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-37</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Month">oct</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999ApJ...525..554F</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The Santa Barbara Cluster Comparison Project: A Comparison of Cosmological Hydrodynamics Solutions</bib_title>
+    <bib_authors>Frenk, C. S. and White, S. D. M. and Bode, P. and Bond, J. R. and Bryan, G. L. and Cen, R. and Couchman, H. M. P. and Evrard, A. E. and Gnedin, N. and Jenkins, A. and Khokhlov, A. M. and Klypin, A. and Navarro, J. F. and Norman, M. L. and Ostriker, J. P. and Owen, J. M. and Pearce, F. R. and Pen, U. L. and Steinmetz, M. and Thomas, P. A. and Villumsen, J. V. and Wadsley, J. W. and Warren, M. S. and Xu, G. and Yepes, G.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>525</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>554-582</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1086/307908</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000ASPC..219...75M</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>FARGO: A Fast Eulerian Transport Algorithm for Differentially Rotating Disks</bib_title>
+    <bib_authors>Masset, F. S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>75</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="BookTitle">ASP Conf. Ser. 219: Disks, Planetesimals, and Planets</bib_extra>
+    <bib_extra key="Editor">Garzón, G. and Eiroa, C. and de Winter, D. and Mahoney, T. J.</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2000A&amp;AS..141..165M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>FARGO: A fast eulerian transport algorithm for differentially rotating disks</bib_title>
+    <bib_authors>Masset, F.</bib_authors>
+    <bib_journal>åps</bib_journal>
+    <bib_volume>141</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>165-173</bib_pages>
+    <bib_year>2000</bib_year>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2002A&amp;A...395..373V</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Numerical methods for non-LTE line radiative transfer: Performance and convergence characteristics</bib_title>
+    <bib_authors>van Zadelhoff, G. J. and Dullemond, C. P. and van der Tak, F. F. S. and Yates, J. A. and Doty, S. D. and Ossenkopf, V. and Hogerheijde, M. R. and Juvela, M. and Wiesemeyer, H. and Schöier, F. L.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>395</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>373-384</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20021226</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004PhFl...16.1668D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A comparative study of the turbulent Rayleigh-Taylor instability using high-resolution three-dimensional numerical simulations: The Alpha-Group collaboration</bib_title>
+    <bib_authors>Dimonte, G. and Youngs, D. L. and Dimits, A. and Weber, S. and Marinak, M. and Wunsch, S. and Garasi, C. and Robinson, A. and Andrews, M. J. and Ramaprabhu, P. and Calder, A. C. and Fryxell, B. and Biello, J. and Dursi, L. and MacNeice, P. and Olson, K. and Ricker, P. and Rosner, R. and Timmes, F. and Tufo, H. and Young, Y. N. and Zingale, M.</bib_authors>
+    <bib_journal>Physics of Fluids</bib_journal>
+    <bib_volume>16</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1668-1693</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Doi">10.1063/1.1688328</bib_extra>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005Ap&amp;SS.298..341W</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Validating the Flash Code: Vortex-Dominated Flows</bib_title>
+    <bib_authors>Weirs, G. and Dwarkadas, V. and Plewa, T. and Tomkins, C. and Marr-Lyon, M.</bib_authors>
+    <bib_journal>\apss</bib_journal>
+    <bib_volume>298</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>341-346</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1007/s10509-005-3966-5</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005ApJ...629..383M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Bypass to Turbulence in Hydrodynamic Accretion Disks: An Eigenvalue Approach</bib_title>
+    <bib_authors>Mukhopadhyay, B. and Afshordi, N. and Narayan, R.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>629</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>383-396</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1086/431419</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005ApJ...629..373A</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Bypass to Turbulence in Hydrodynamic Accretion: Lagrangian Analysis of Energy Growth</bib_title>
+    <bib_authors>Afshordi, N. and Mukhopadhyay, B. and Narayan, R.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>629</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>373-382</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1086/431418</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005MNRAS.358..316D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>The dependence of protoplanet migration rates on co-orbital torques</bib_title>
+    <bib_authors>D’Angelo, G. and Bate, M. R. and Lubow, S. H.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>358</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>316-332</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1111/j.1365-2966.2005.08866.x</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006MNRAS.370..529D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A comparative study of disc-planet interaction</bib_title>
+    <bib_authors>de Val-Borro, M. and Edgar, R. G. and Artymowicz, P. and Ciecielag, P. and Cresswell, P. and D’Angelo, G. and Delgado-Donate, E. J. and Dirksen, G. and Fromang, S. and Gawryszczak, A. and Klahr, H. and Kley, W. and Lyra, W. and Masset, F. and Mellema, G. and Nelson, R. P. and Paardekooper, S. J. and Peplinski, A. and Pierens, A. and Plewa, T. and Rice, K. and Schäfer, C. and Speith, R.</bib_authors>
+    <bib_journal>\mnras</bib_journal>
+    <bib_volume>370</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>529-558</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1111/j.1365-2966.2006.10488.x</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006A&amp;A...446L..13V</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Reviving Dead Zones in accretion disks by Rossby vortices at their boundaries</bib_title>
+    <bib_authors>Varnière, P. and Tagger, M.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>446</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-13</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:200500226</bib_extra>
+    <bib_extra key="Month">feb</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006ApJ...636L..33T</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A Possible Rossby Wave Instability Origin for the Flares in Sagittarius A*</bib_title>
+    <bib_authors>Tagger, M. and Melia, F.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>636</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-33</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1086/499806</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006ApJ...639..432K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Formation of Giant Planets by Concurrent Accretion of Solids and Gas inside an Anticyclonic Vortex</bib_title>
+    <bib_authors>Klahr, H. and Bodenheimer, P.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>639</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>432-440</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1086/498928</bib_extra>
+    <bib_extra key="Month">mar</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006Natur.444..343J</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Hydrodynamic turbulence cannot transport angular momentum effectively in astrophysical disks</bib_title>
+    <bib_authors>Ji, H. and Burin, M. and Schartman, E. and Goodman, J.</bib_authors>
+    <bib_journal>\nat</bib_journal>
+    <bib_volume>444</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>343-346</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1038/nature05323</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006ApJ...652.1020B</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>An Exact, Three-dimensional, Time-dependent Wave Solution in Local Keplerian Flow</bib_title>
+    <bib_authors>Balbus, S. A. and Hawley, J. F.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>652</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1020-1027</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1086/508320</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1994ApJ...421..651A</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Dynamics of binary-disk interaction. 1: Resonances and disk gap sizes</bib_title>
+    <bib_authors>Artymowicz, P. and Lubow, S. H.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>421</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>651-667</bib_pages>
+    <bib_year>1994</bib_year>
+    <bib_extra key="Doi">10.1086/173679</bib_extra>
+    <bib_extra key="Month">feb</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>Brandenburg:2001yb</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Hydromagnetic turbulence in computer simulations</bib_title>
+    <bib_authors>Brandenburg, Axel and Dobler, W.</bib_authors>
+    <bib_journal>Comput. Phys. Commun.</bib_journal>
+    <bib_volume>147</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>471-475</bib_pages>
+    <bib_year>2002</bib_year>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004ASPC..324...39A</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Dynamics of Gaseous Disks with Planets</bib_title>
+    <bib_authors>Artymowicz, P.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>39</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="BookTitle">ASP Conf. Ser. 324: Debris Disks and the Formation of Planets</bib_extra>
+    <bib_extra key="Editor">Caroff, L. and Moon, L. J. and Backman, D. and Praton, E.</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998ApJ...497..303M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Bipolar Preplanetary Nebulae: Hydrodynamics of Dusty Winds in Binary Systems. I. Formation of Accretion Disks</bib_title>
+    <bib_authors>Mastrodemos, N. and Morris, M.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>497</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>303</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Doi">10.1086/305465</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1999ApJ...523..357M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Bipolar Pre-Planetary Nebulae: Hydrodynamics of Dusty Winds in Binary Systems. II. Morphology of the Circumstellar Envelopes</bib_title>
+    <bib_authors>Mastrodemos, N. and Morris, M.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>523</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>357-380</bib_pages>
+    <bib_year>1999</bib_year>
+    <bib_extra key="Doi">10.1086/307717</bib_extra>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998PhDT.........9M</key>
+    <tagged>0</tagged>
+    <bib_type>PhdThesis</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Models of Winds from Late Type Stars: the Stability of Dust-Driven Winds and the Hydrodynamics of Dusty Winds in Binary Systems</bib_title>
+    <bib_authors>Mastrodemos, N.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages></bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Month">August</bib_extra>
+    <bib_extra key="School">AA(UNIVERSITY OF CALIFORNIA, LOS ANGELES)</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006ApJ...649..410W</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Mira B Rejuvenated</bib_title>
+    <bib_authors>Wood, B. E. and Karovska, M.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>649</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>410-414</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1086/506383</bib_extra>
+    <bib_extra key="Month">sep</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1998ApJ...493..898A</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Hydrodynamics of the Stream-Disk Impact in Interacting Binaries</bib_title>
+    <bib_authors>Armitage, P. J. and Livio, M.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>493</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>898</bib_pages>
+    <bib_year>1998</bib_year>
+    <bib_extra key="Doi">10.1086/305149</bib_extra>
+    <bib_extra key="Month">jan</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2006ApJ...643..381D</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Numerical Simulations of the Onset and Stability of Dynamical Mass Transfer in Binaries</bib_title>
+    <bib_authors>D’Souza, M. C. R. and Motl, P. M. and Tohline, J. E. and Frank, J.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>643</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>381-401</bib_pages>
+    <bib_year>2006</bib_year>
+    <bib_extra key="Doi">10.1086/500384</bib_extra>
+    <bib_extra key="Month">may</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005ARep...49..884M</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Three-Dimensional Gas-Dynamical Modeling of Changes in the Flow Structure during the Transition from the Quiescent to the Active State in Symbiotic Stars</bib_title>
+    <bib_authors>Mitsumoto, M. and Jahanara, B. and Matsuda, T. and Oka, K. and Bisikalo, D. V. and Kilpio, E. Y. and Boffin, H. M. J. and Boyarchuk, A. A. and Kuznetsov, O. A.</bib_authors>
+    <bib_journal>Astronomy Reports</bib_journal>
+    <bib_volume>49</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>884-891</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1134/1.2127992</bib_extra>
+    <bib_extra key="Month">nov</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004ApJ...616.1188K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>X-Rays from the Mira AB Binary System</bib_title>
+    <bib_authors>Kastner, J. H. and Soker, N.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>616</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1188-1192</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Doi">10.1086/424921</bib_extra>
+    <bib_extra key="Month">dec</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2002ApJ...575.1057W</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Analysis of $H_2$ Emission from Mira B in Ultraviolet Spectra from the Hubble Space Telescope</bib_title>
+    <bib_authors>Wood, B. E. and Karovska, M. and Raymond, J. C.</bib_authors>
+    <bib_journal>\apj</bib_journal>
+    <bib_volume>575</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>1057-1077</bib_pages>
+    <bib_year>2002</bib_year>
+    <bib_extra key="Doi">10.1086/341478</bib_extra>
+    <bib_extra key="Month">aug</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>1997ApJ...482L.175K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>First Hubble Space Telescope Observations of Mira AB Wind-accreting Binary Systems</bib_title>
+    <bib_authors>Karovska, M. and Hack, W. and Raymond, J. and Guinan, E.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>482</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-175</bib_pages>
+    <bib_year>1997</bib_year>
+    <bib_extra key="Doi">10.1086/310704</bib_extra>
+    <bib_extra key="Month">jun</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2004A&amp;A...421..703W</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Interferometric observations of the Mira star o Ceti with the VLTI/VINCI instrument in the near-infrared</bib_title>
+    <bib_authors>Woodruff, H. C. and Eberhardt, M. and Driebe, T. and Hofmann, K. H. and Ohnaka, K. and Richichi, A. and Schertl, D. and Schöller, M. and Scholz, M. and Weigelt, G. and Wittkowski, M. and Wood, P. R.</bib_authors>
+    <bib_journal>åp</bib_journal>
+    <bib_volume>421</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>703-714</bib_pages>
+    <bib_year>2004</bib_year>
+    <bib_extra key="Doi">10.1051/0004-6361:20035826</bib_extra>
+    <bib_extra key="Month">jul</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2005ApJ...623L.137K</key>
+    <tagged>0</tagged>
+    <bib_type>Article</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>A Large X-Ray Outburst in Mira A</bib_title>
+    <bib_authors>Karovska, M. and Schlegel, E. and Hack, W. and Raymond, J. C. and Wood, B. E.</bib_authors>
+    <bib_journal>\apjl</bib_journal>
+    <bib_volume>623</bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>-137</bib_pages>
+    <bib_year>2005</bib_year>
+    <bib_extra key="Doi">10.1086/430111</bib_extra>
+    <bib_extra key="Month">apr</bib_extra>
+  </doc>
+  <doc>
+    <filename></filename>
+    <relative_filename></relative_filename>
+    <key>2003ASPC..294..303T</key>
+    <tagged>0</tagged>
+    <bib_type>InProceedings</bib_type>
+    <bib_doi></bib_doi>
+    <bib_title>Gas Capturing Growth of Gas-Giant Planets via Subdisk Accretion in Protoplanetary Disk</bib_title>
+    <bib_authors>Tanigawa, T. and Watanabe, S.</bib_authors>
+    <bib_journal></bib_journal>
+    <bib_volume></bib_volume>
+    <bib_number></bib_number>
+    <bib_pages>303-306</bib_pages>
+    <bib_year>2003</bib_year>
+    <bib_extra key="BookTitle">ASP Conf. Ser. 294: Scientific Frontiers in Research on Extrasolar Planets</bib_extra>
+    <bib_extra key="Editor">Deming, D. and Seager, S.</bib_extra>
+  </doc>
+</doclist>
+</library>
