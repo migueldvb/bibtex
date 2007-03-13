@@ -5,6 +5,14 @@
     <uid>0</uid>
     <name>Astrophysics</name>
   </tag>
+  <tag>
+    <uid>1</uid>
+    <name>Mira</name>
+  </tag>
+  <tag>
+    <uid>2</uid>
+    <name>Binaries</name>
+  </tag>
 </taglist>
 <doclist>
   <doc>
@@ -2296,6 +2304,7 @@
     <relative_filename></relative_filename>
     <key>1998ApJ...497..303M</key>
     <tagged>0</tagged>
+    <tagged>2</tagged>
     <bib_type>Article</bib_type>
     <bib_doi></bib_doi>
     <bib_title>Bipolar Preplanetary Nebulae: Hydrodynamics of Dusty Winds in Binary Systems. I. Formation of Accretion Disks</bib_title>
@@ -2313,6 +2322,7 @@
     <relative_filename></relative_filename>
     <key>1999ApJ...523..357M</key>
     <tagged>0</tagged>
+    <tagged>2</tagged>
     <bib_type>Article</bib_type>
     <bib_doi></bib_doi>
     <bib_title>Bipolar Pre-Planetary Nebulae: Hydrodynamics of Dusty Winds in Binary Systems. II. Morphology of the Circumstellar Envelopes</bib_title>
@@ -2330,6 +2340,7 @@
     <relative_filename></relative_filename>
     <key>1998PhDT.........9M</key>
     <tagged>0</tagged>
+    <tagged>2</tagged>
     <bib_type>PhdThesis</bib_type>
     <bib_doi></bib_doi>
     <bib_title>Models of Winds from Late Type Stars: the Stability of Dust-Driven Winds and the Hydrodynamics of Dusty Winds in Binary Systems</bib_title>
@@ -2347,6 +2358,7 @@
     <relative_filename></relative_filename>
     <key>2006ApJ...649..410W</key>
     <tagged>0</tagged>
+    <tagged>1</tagged>
     <bib_type>Article</bib_type>
     <bib_doi></bib_doi>
     <bib_title>Mira B Rejuvenated</bib_title>
@@ -2415,6 +2427,7 @@
     <relative_filename></relative_filename>
     <key>2004ApJ...616.1188K</key>
     <tagged>0</tagged>
+    <tagged>1</tagged>
     <bib_type>Article</bib_type>
     <bib_doi></bib_doi>
     <bib_title>X-Rays from the Mira AB Binary System</bib_title>
@@ -2449,6 +2462,7 @@
     <relative_filename></relative_filename>
     <key>1997ApJ...482L.175K</key>
     <tagged>0</tagged>
+    <tagged>1</tagged>
     <bib_type>Article</bib_type>
     <bib_doi></bib_doi>
     <bib_title>First Hubble Space Telescope Observations of Mira AB Wind-accreting Binary Systems</bib_title>
@@ -2483,6 +2497,7 @@
     <relative_filename></relative_filename>
     <key>2005ApJ...623L.137K</key>
     <tagged>0</tagged>
+    <tagged>1</tagged>
     <bib_type>Article</bib_type>
     <bib_doi></bib_doi>
     <bib_title>A Large X-Ray Outburst in Mira A</bib_title>
